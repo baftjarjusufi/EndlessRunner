@@ -14,6 +14,8 @@ Check out my 3D Planet Viewer using Three.js! Explore space by moving your mouse
 
 ## Demo small Video
 
+<a href="https://imgur.com/hyBksbP"><img src="https://i.imgur.com/hyBksbP.mp4" title="source: imgur.com" /></a>
+
 https://www.youtube.com/watch?v=SxNbUw-a8Eo
 
 ![](https://imgur.com/a/cQ3QuPU)
