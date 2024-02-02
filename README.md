@@ -22,11 +22,11 @@ https://www.youtube.com/watch?v=SxNbUw-a8Eo
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/hyBksbP.mp4)
+![App Screenshot](https://i.imgur.com/iYtuBdj.png)
 
-![App Screenshot](https://i.imgur.com/bKN8ZnO.png)
+![App Screenshot](https://i.imgur.com/4QMlJ4y.png)
 
-![App Screenshot](https://i.imgur.com/ShRwHGf.png)
+![App Screenshot](https://i.imgur.com/XRnJC8C.png)
 
-![App Screenshot](https://i.imgur.com/R2wucS1.png)
+![App Screenshot](https://i.imgur.com/9uOPKJy.png)
 
