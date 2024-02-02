@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=SxNbUw-a8Eo
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/fTvDWHH.png)
+![App Screenshot](https://i.imgur.com/hyBksbP.mp4)
 
 ![App Screenshot](https://i.imgur.com/bKN8ZnO.png)
 
