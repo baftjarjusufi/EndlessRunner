@@ -1,14 +1,12 @@
 # EndlessRunner
-Endless runner is a unity based game where you are as a player need to collect coins until you "die".
 
+-	So basically the game “Endless Runner” is a running game where it   will contain a level where you as a player need to try to outperform the object and to get the score as high as possible, the player will be a different color or it will have a mark (not decided) and to try to get to the finish line without touching the objects  , the game will be simple but as the game goes the speed increases so it gets more challenging.
+-	The design is all original made from unity materials and the gameplay is simple, so it’s a game made for having fun while playing.
+-	The player will be a circle-shaped unity with a plain skin which maybe in the future I will add some skins to it, and maybe skins to the platform and the player has gotten 3 trails that follow the player.
+-	The main strength of this game is the simplicity of the game also for gameplay because for the player you just need to move right, left, up and down and the level will be also simple design and simple mechanism to beat the game with 4 different sections.
+-	The coolest part of this game is that it is made to relax while playing the game and not stress out from it-a stress less game, while you eat, school when you have free time, whenever, wherever.
+-	It is better to check the game.
 
-Dive into the cosmos with 3D Planet Viewer: realistic day-night cycles, interactive controls, and educational insights. Explore the universe online! Made with THREE.JS
-
-
-
-# 3D PLANET VIEWER MADE WITH THREE.JS
-
-Check out my 3D Planet Viewer using Three.js! Explore space by moving your mouse around. Click to switch between day and night mode. Developed by [Baftjar Jusufi], it's a fun way to learn about planets! When double clicked it will change to "night mode" as shown in picture , you can move the sphere , change direction , size with both mouse and keyboard.
 
 
 
